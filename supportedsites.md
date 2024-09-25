@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.ibb.co/tcX5DRH/Lista-piattaforme-adibite.png" alt="Logo" width="300"/>
+</p>
+
+
+
 # Supported sites
  - **17live**
  - **17live:clip**
